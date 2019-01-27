@@ -28,7 +28,7 @@ def adding
                   "oil paintings" => 3
                  }
   
-  
+  shipping_manifest[]
 
 
 
